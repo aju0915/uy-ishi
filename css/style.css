@@ -1,0 +1,82 @@
+*{margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+.container{
+    max-width: 1280px;
+    width: 100%;
+    margin: 0 auto;
+}
+header{
+    position: absolute;
+    padding: 40px;
+    
+  
+}
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 200px;
+    padding-left: 100px;
+}
+
+
+
+
+a{
+    color: white;
+    text-decoration: none;
+}
+.menus{list-style: none; display: flex; gap: 40px
+;
+}
+#hero{ padding-top: 80px; padding-bottom: 236px;
+    background-repeat: no-repeat;
+    background-position: center;
+   background-size: cover;
+    background-image: url(../image/1\ \(1\).png);
+    height: 700px;
+}
+.hero-title{color: white; font-size: 110px;
+}
+.hero-dsc{ font-size: 18px; color: white;}
+.btn{width:188px ; height: 52px;
+    border-radius: 10px;
+    background-color: #F57520;
+    color: white;
+    margin-top: 40px;
+}
+.hero-ds{ font-size: 18px; color: white; display: flex;
+      align-items: center; gap: 30px; justify-content: space-between;
+      padding: 100px;
+   
+}
+.img{display: flex; padding: 100px;
+    justify-content: space-between;
+    align-items: center;
+    gap: 20px;}
+.bcs{ background-repeat: no-repeat;
+    background-position: center;
+   background-size: cover;
+    background-image: url(../image/image\ 23.png);
+    width: 368px; height: 288px; padding: 40px;
+   
+ }
+    .ras{display: flex; justify-content: space-between; align-items: center;padding-top: 100px;}
+    .bia{display: flex; justify-content: space-between; align-items: center;
+
+    }
+    #velo{
+        background-image: url(../image/Frame\ 76.png); height: 533px;background-repeat: no-repeat;
+        background-position: center; background-size: cover;background-attachment: fixed;}
+        .veli{display: flex; justify-content: space-between;
+            box-shadow: 5px 5pox 10px gray;
+
+
+        }
+        #velikla{
+            padding-top: 80px;
+            padding-bottom: 80px;
+        }
