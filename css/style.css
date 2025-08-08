@@ -11,6 +11,9 @@
 header{
     position: absolute;
     padding: 40px;
+    justify-content: center;
+    width: 100%;
+    position: fixed;
     
   
 }
